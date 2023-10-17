@@ -1,5 +1,4 @@
 package org.example;
-
 public class Task7 {
     private static void printStars(int amount){
         String str="*";
