@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
-
 public class DataStructures {
     private List<TaskItem> tasks = new ArrayList<>();
     public DataStructures() {
