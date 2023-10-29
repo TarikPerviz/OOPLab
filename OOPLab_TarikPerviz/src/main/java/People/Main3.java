@@ -7,7 +7,7 @@ public class Main3 {
         System.out.println(pekka);
         System.out.println(esko);
 
-        Student olli = new Student("Olli", "Ida Albergintie 1 Street 00400 Helsinki");
+        Student olli = new Student("Olli", "Ida Albergintie 1 Street 00400 Helsinki",1);
         for (int i = 0; i < 25; i++) {
             olli.study();
         }
