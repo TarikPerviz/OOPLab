@@ -5,7 +5,7 @@ public class Main4 {
     public static void printDepartment(List<Person> people) {
         for (Person person : people) {
             System.out.println(person);
-            System.out.println(); // Add an empty line for separation
+            System.out.println();
         }
     }
 
