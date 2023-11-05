@@ -25,7 +25,7 @@ class Circle extends Shape {
     }
 
     public double calculateCircumference(double r) {
-        final double PI = Math.PI; // Use a constant value of PI
+        final double PI = Math.PI;
         return 2 * PI * r;
     }
 }
