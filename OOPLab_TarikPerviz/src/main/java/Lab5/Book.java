@@ -1,5 +1,4 @@
 package Lab5;
-
 public class Book implements ToBeStored {
     private String writer;
     private String name;

@@ -1,7 +1,4 @@
 package Lab5;
-
-
-
 public class main {
     public static void main(String[] args) {
         Book book1= new Book("Fedor Dostojevski","Crime and Punishment",2);

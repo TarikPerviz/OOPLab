@@ -1,5 +1,4 @@
 package Lab5;
-
 public class MilitaryService implements NationalService {
     private int daysLeft;
 

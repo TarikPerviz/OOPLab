@@ -2,7 +2,6 @@ package Lab5;
 
 import java.util.ArrayList;
 import java.util.List;
-
 public class Box {
     private double maximumWeight;
     private List<ToBeStored> items;
